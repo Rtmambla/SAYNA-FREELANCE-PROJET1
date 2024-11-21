@@ -2,6 +2,9 @@
 
   🆓 Introduction to freelancing
 
-- 👋 Salut , c'est mon premier projet à l'initiation au freelancing
-- 😁 Je vous souhaite une bonne lecture ...
-- 😎 N'hésitez pas à mettre des commentaires !
+- 👋 Hi, this is my first freelancing project.
+- 😁 I wish you a good reading ...
+- 😎 Feel free to comment  !
+
+
+
